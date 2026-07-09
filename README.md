@@ -2,6 +2,10 @@
 
 一个基于 `Python 3.12` 的显示实时频谱图的小工具，支持 windows 系统。
 
+Windows 可执行压缩包位于 `dist/RealTimeSpectrum-win64.zip`，解压后运行 `RealTimeSpectrum.exe` 即可。
+
+项目代码采用宽松的 `MIT` 许可证发布；打包产物中包含的第三方依赖仍分别遵循各自许可证。
+
 ## 功能
 
 - 启动后先选择声卡
