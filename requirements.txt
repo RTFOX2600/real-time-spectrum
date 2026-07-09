@@ -1,0 +1,5 @@
+numpy
+PyAudioWPatch
+PySide6
+pyqtgraph
+pycaw
