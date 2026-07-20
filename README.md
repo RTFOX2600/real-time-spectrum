@@ -5,7 +5,7 @@
 下载发布版：
 
 - Release 页面: [v0.1.0](https://github.com/RTFOX2600/real-time-spectrum/releases/tag/v0.1.0)
-- Windows 压缩包: [RealTimeSpectrum-win64.zip](https://github.com/RTFOX2600/real-time-spectrum/releases/download/v0.1.0/RealTimeSpectrum-win64.zip)
+- Windows 压缩包: [RealTimeSpectrum-win64.zip (66 MB)](https://github.com/RTFOX2600/real-time-spectrum/releases/download/v0.1.0/RealTimeSpectrum-win64.zip)
 
 如果你在本地源码目录中运行，也可以直接使用 `dist/RealTimeSpectrum-win64.zip`，解压后运行 `RealTimeSpectrum.exe`。
 
