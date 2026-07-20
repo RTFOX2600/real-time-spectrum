@@ -9,6 +9,10 @@
 
 如果你在本地源码目录中运行，也可以直接使用 `dist/RealTimeSpectrum-win64.zip`，解压后运行 `RealTimeSpectrum.exe`。
 
+程序截图：
+
+![Real-Time Spectrum Screenshot](assets/screenshot.png)
+
 项目代码采用宽松的 `MIT` 许可证发布；打包产物中包含的第三方依赖仍分别遵循各自许可证。
 
 ## 功能
